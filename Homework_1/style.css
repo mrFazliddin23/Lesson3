@@ -1,0 +1,20 @@
+.about {
+    background-color: darkblue;
+    text-align: center;
+    padding: 5% 15%;
+    margin: 10% 10%;
+}
+.quote {
+    font-size: 10ch;
+    color: white;
+    text-align: center;
+    margin: 0% 0%;
+}
+.resume {
+    color: white;
+    margin-top: 0%;
+}
+.name{
+    font-size: 3ch;
+    margin: 0%;
+}

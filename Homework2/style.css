@@ -1,0 +1,36 @@
+.box1 {
+    background-color: lightblue;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding: 1%;
+    font-size: 3ch;
+    border-radius: 2ch;
+}
+.box2 {
+    background-color: gold;
+    text-align: center;
+    margin: 1% 30% 30%;
+    margin-bottom: 1%;
+    padding: 1%;
+    font-size: 3ch;
+    border-radius: 2ch;
+}
+.box3 {
+    background-color: aqua;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding: 1%;
+    font-size: 3ch;
+    border-radius: 2ch;
+
+}
+.box4 {
+    background-color:crimson;
+    text-align: center;
+    margin: 1% 30% 30%;
+    padding: 1%;
+    border-radius: 2ch;
+    font-size: 3ch;
+}
